@@ -1,11 +1,11 @@
 {
-  "name": "Your Coffee Shop",
-  "short_name": "Coffee Shop",
+  "name": "Zaca Coffee",
+  "short_name": "Zaca",
   "description": "Order your favorite coffee directly from your phone",
-  "start_url": "/",
+  "start_url": "/https://zaca-coffee.square.site/#FIIKFZKYZOQVOSSEKBM7JQYP",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#8B4513",
+  "theme_color": "#4D0E0E",
   "orientation": "portrait",
   "scope": "/",
   "icons": [
