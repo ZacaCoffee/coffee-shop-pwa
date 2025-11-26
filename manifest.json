@@ -2,7 +2,7 @@
   "name": "Zaca Coffee",
   "short_name": "Zaca",
   "description": "Order your favorite coffee directly from your phone",
-  "start_url": "/https://zaca-coffee.square.site/#FIIKFZKYZOQVOSSEKBM7JQYP",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4D0E0E",
