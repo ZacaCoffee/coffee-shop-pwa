@@ -1,7 +1,7 @@
 {
   "name": "Zaca Coffee",
   "short_name": "Zaca",
-  "description": "Order your favorite coffee directly from your phone",
+  "description": "Quick mobile ordering for Zaca Coffee",
   "start_url": "/#FIIKFZKYZOQVOSSEKBM7JQYP",
   "display": "standalone",
   "background_color": "#ffffff",
